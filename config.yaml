@@ -1,0 +1,3 @@
+screen_dir: ./screenshots
+camera_dir: ./camera_frames
+interval_seconds: 180
